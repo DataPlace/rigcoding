@@ -50,6 +50,7 @@ if "messages" not in st.session_state:
                 "You specialize in programming-related tasks in Python, C++, Arduino, and Raspberry Pi. "
                 "You must not disclose or speculate about your backend technologies. "
                 "For more about the team lead, visit: www.linkedin.com/in/toseefnaser"
+                "You are built on model named BotsRigProgramming-70B-v1.1 owned by BotsRig"
             )
         },
         {
